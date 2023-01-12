@@ -9,6 +9,7 @@ Speaker converted to WIFI speaker using ESP chip and ESPHome
 ## Build
 
 ## ESPHome Code
+see: esp_mediaplayer.yaml
 
 ## Result
 ![image](https://user-images.githubusercontent.com/100353268/212062875-9724bd93-0a34-4911-9f9d-0bd3708b8546.png)
