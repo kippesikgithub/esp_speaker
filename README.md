@@ -1,5 +1,5 @@
-# esp_speaker
-Speaker converted to WIFI speaker using ESP chip and ESPHome
+# Wifi ESP based speaker
+Speaker converted to WIFI speaker using ESP chip and ESPHome, can be used as a Media Player in HA
 
 ## Needed Parts
 - ESP32 Chip
